@@ -1,0 +1,8 @@
+tkinter
+json
+threading
+time
+from ctypes import windll, byref, c_ulong
+sounddevice
+soundfile
+pytchat
